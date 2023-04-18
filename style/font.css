@@ -1,0 +1,11 @@
+@font-face {
+  font-family:"Poppin";
+  src: url(../fonts/Poppins-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family:"Comfortaa";
+  src: url(../../../mounth4/01/Vue-cinemas/fonts/Comfortaa/Comfortaa-Regular.ttf);
+  font-weight: 400;
+}
